@@ -26,3 +26,6 @@ We always create a hyperplane that has a maximum margin, which means the maximum
 
 ### Support Vectors:
 The data points or vectors that are the closest to the hyperplane and which affect the position of the hyperplane are termed as Support Vector. Since these vectors support the hyperplane, hence called a Support vector.
+
+### How does SVM works?
+[SVM notebook]()
